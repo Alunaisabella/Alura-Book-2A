@@ -22,3 +22,7 @@ align-items: center;
 .container-img{
     padding: 1em;
 }
+
+.lista-manu{
+    display: none;
+}
