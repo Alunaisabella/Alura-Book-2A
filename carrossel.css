@@ -94,7 +94,7 @@ font-weight: 700;
 }
 
 .card {
-width: 40%
+width: 40%;
 margin: 2em auto;
   }
 }  
@@ -103,7 +103,7 @@ margin: 2em auto;
 . carrossel__container {
     display: flex;
     margin: 0 20vw 3em 20em 20vw;
-    align-items: center;
+    align-items:center;
 }
 
 .swiper-pagination {
