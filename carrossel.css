@@ -104,3 +104,29 @@ margin: 2em auto;
     display: flex;
     margin: 0 20vw 3em 20em 20vw;
     align-items: center;
+}
+
+.swiper-pagination {
+    margin: 1em 0;
+}
+
+.swiper {
+   width: 50%;
+}
+
+. descrição__titulo {
+    font-size: 32px;
+    }
+
+. descrição __texto {
+    font-size: 16px;
+}
+
+. descrição {
+    margin-right: 2em;
+}
+
+.card {
+    margin-left: 3em;
+}
+}
