@@ -122,11 +122,15 @@ margin: 2em auto;
     font-size: 16px;
 }
 
+descrição {
+    margin-right: 2em;
+}
 . descrição {
     margin-right: 2em;
 }
 
 .card {
+   width: 60%;
     margin-left: 3em;
-}
+  }
 }
