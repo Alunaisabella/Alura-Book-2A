@@ -99,7 +99,7 @@ margin: 2em auto;
   }
 }  
 
-.@media screen and (main-width: 1728px) 
+@media screen and (main-width: 1728px) 
 . carrossel__container {
     display: flex;
     margin: 0 20vw 3em 20em 20vw;
@@ -114,19 +114,20 @@ margin: 2em auto;
    width: 50%;
 }
 
-. descrição__titulo {
+.descrição__titulo {
     font-size: 32px;
     }
 
-. descrição __texto {
+.descrição__texto {
     font-size: 16px;
 }
 
-. descrição {
+.descrição {
     margin-right: 2em;
 }
 
 .card {
-    margin-left: 3em;
+    width: 60%;
+    margin-left:3em;
 }
 }
