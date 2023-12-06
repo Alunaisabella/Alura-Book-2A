@@ -127,6 +127,8 @@ margin: 2em auto;
 }
 
 .card {
+    
+    width: 60%;
     margin-left: 3em;
 }
 }
